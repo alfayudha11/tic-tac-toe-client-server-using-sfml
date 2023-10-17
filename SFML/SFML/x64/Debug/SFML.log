@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(54,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(55,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(58,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(59,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(70,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(70,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(71,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(71,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(72,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(72,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(73,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(73,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(82,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus G55VW\source\repos\SFML\SFML\main.cpp(82,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\Asus G55VW\source\repos\SFML\x64\Debug\SFML.exe
